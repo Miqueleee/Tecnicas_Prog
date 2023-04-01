@@ -1,2 +1,4 @@
-# T-cnicas-de-Programa-o
-asdasad
+# Técnicas de Programação
+
+*Lista de atividades da disciplina Técnicas de Programação* 
+
